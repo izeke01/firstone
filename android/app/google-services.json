@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428990446360",
+    "project_id": "isaac1-ad5cd",
+    "storage_bucket": "isaac1-ad5cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428990446360:android:140f82ab14913f5009bc6d",
+        "android_client_info": {
+          "package_name": "com.example.isaac1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428990446360-7k38r366ecami4rthu8pn71bmjpnlml0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfV5ZsUgn_mneK-dg_W7ZwpUVhUnY1u5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428990446360-7k38r366ecami4rthu8pn71bmjpnlml0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
